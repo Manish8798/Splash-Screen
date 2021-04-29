@@ -1,2 +1,2 @@
 # Splash-Screen
--make splash screen like professionals
+-splash screen
