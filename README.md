@@ -1,2 +1,2 @@
-# Splash-Screen
+# Splash-Screen-Android
 - splash screen
