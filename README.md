@@ -1,2 +1,2 @@
 # Splash-Screen-Android
-- right way to implement splash screen
+- The right way to implement splash screen
